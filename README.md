@@ -7,6 +7,7 @@ pwd
 nano ~/.bashrc
 # add the following
 alias fast-expo='. OUTPUT_FROM_pwd_CMD/fast_string.sh'
+# ctrl-x then press Enter
 . ~/.bashrc
 ```
 ### happy hacking ;)
